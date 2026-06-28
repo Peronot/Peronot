@@ -135,11 +135,11 @@ My goal is to become a professional software engineer capable of building secure
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<a href="https://www.linkedin.com/in/eng-abdiaziiz-mohamed-971876283?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:YOUR-EMAIL@gmail.com">
+<a href="mailto:siiscadde16@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
