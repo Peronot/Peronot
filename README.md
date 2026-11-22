@@ -3,7 +3,7 @@
 
 # Hi 👋, I'm Abdiaziz Mohamed Ali
 
-### 💻 Software Developer | Computer Science Student | Full-Stack & Mobile Developer
+### 💻 Software Developer | Computer Science | Full-Stack & Mobile Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=950&lines=Software+Developer+%7C+Computer+Science+Student;Flutter+%7C+React+%7C+Laravel+Developer;Java+%7C+Spring+Boot+%7C+Python;Odoo+ERP+%7C+Backend+Development;Building+Real-World+Software+Solutions;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
 
