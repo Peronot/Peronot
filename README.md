@@ -35,7 +35,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Abdiaziz Mohamed Ali**, a passionate **Computer Science Student and Software Developer** based in **Mogadishu, Somalia 🇸🇴**.
+I'm **Abdiaziz Mohamed Ali**, a passionate **Computer Science and Software Developer** based in **Mogadishu, Somalia 🇸🇴**.
 
 I enjoy designing and developing modern, secure, scalable, and user-friendly software applications that solve real-world problems.
 
